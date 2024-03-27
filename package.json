@@ -1,6 +1,6 @@
 {
   "name": "pepemaker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:4mo4ever/pepemaker.git"
+    "url": "https://github.com/4mo4ever//pepemaker.git"
   },
   "website": "https://github.com/4mo4ever/pepemaker.git",
   "husky": {
